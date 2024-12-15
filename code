@@ -40,5 +40,30 @@ def main():
         print("Error! Cannot create the database connection.")
 
 if __name__ == '__main__':
-    main()
+    main()<
+6:44
+• Business assistant
+Liama 3.1
+import 'package: flutter/ material.dart';
+void main) < runApp (MyApp ());
+}
+•• I LTE (26)
+class MyApp extends StatelessWidget ‹
+@override
+Widget build (BuildContext context)
+return MaterialApp( title: 'My App', home: MyHomePage (),
+};
+}
+class MyHomePage extends
+StatefulWidget {
+@override
+_MyHomePageState createState () →
+_MyHomePageState();
+class _MyHomePageState extends
+State<MyHomePage> {
+int_currentIndex = 0;
+final
+_pages = 1
+// Add pages here
+1;
 ```
